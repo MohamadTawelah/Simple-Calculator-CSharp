@@ -1,11 +1,5 @@
 # 🧮 Simple Calculator — Windows Forms (C#)
 
-## 📸 Preview
-
-### 🖥️ Calculator UI
-![Calculator UI](assets/calculator.png)
-
----
 
 ## 📖 Overview
 
